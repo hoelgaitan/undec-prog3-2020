@@ -19,6 +19,7 @@ public class GestorAerolineaTest {
 		
 		assertEquals(g1, g2);
 		
+		
 	}
 		
 	
